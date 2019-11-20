@@ -16,3 +16,4 @@ React library to add an event to calendar
 5. eventEndDate (string, required): End datetime for that event.
 
 ** For eventStartDate & eventEndDate, instance of date is required instead of string. Make sure you passed date instance. **
+
